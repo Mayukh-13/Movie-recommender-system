@@ -6,4 +6,4 @@
     3. Run the 1MOVIE_RECOMMENDER.ipynb on jupyter or google collab
     4. Run the app.py on an IDE(Pycharm preferred)
     5. Run the command "streamlit run app.py" in the Terminal
-    6. You should see the website withe Movie Recommender System
+    6. You should see the website with Movie Recommender System
